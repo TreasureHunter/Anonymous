@@ -13,9 +13,9 @@ Firstly, we conduct information flow analysis on both paragraph disparity level 
 
 This reveals layer-wise information flow propagation patterns and discrepancies between good and bad samples.
 
-<img src="./fig/paragraph_ana.png" alt="para_ana" width="33%" />
+![para_ana](./fig/paragraph_ana.png)
 
-<img src="./fig/answer_ana.png" alt="ans_ana" width="33%" />
+![ans_ana](./fig/answer_ana.png)
 
 ## 💡Methodology
 
