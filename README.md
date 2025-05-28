@@ -27,7 +27,9 @@ To address these issues, we propose **Dual-Stage Adaptive Sharpening (DSAS)**, a
 
 🖼️ The figure below illustrates our proposed framework.
 
-![method](./fig/method.png)
+<div align="center">
+<img src="fig\method.png" width="1000px">
+</div>
 
 ## ⚙️ Environment and Requirements
 
