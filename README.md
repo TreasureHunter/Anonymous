@@ -13,11 +13,11 @@ Firstly, we conduct information flow analysis on both paragraph disparity level 
 
 This reveals layer-wise information flow propagation patterns and discrepancies between good and bad samples.
 
-<div align="center">
+<div align="left">
 <img src="fig\paragraph_ana.png" width="800px">
 </div>
 
-<div align="center">
+<div align="left">
 <img src="fig\answer_ana.png" width="800px">
 </div>
 
@@ -27,7 +27,7 @@ To address these issues, we propose **Dual-Stage Adaptive Sharpening (DSAS)**, a
 
 🖼️ The figure below illustrates our proposed framework.
 
-<div align="center">
+<div align="left">
 <img src="fig\method.png" width="1000px">
 </div>
 
