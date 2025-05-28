@@ -14,11 +14,11 @@ Firstly, we conduct information flow analysis on both paragraph disparity level 
 This reveals layer-wise information flow propagation patterns and discrepancies between good and bad samples.
 
 <div align="center">
-< img src="fig\paragraph_ana.png" width="800px">
+<img src="fig\paragraph_ana.png" width="800px">
 </div>
 
 <div align="center">
-< img src="fig\answer_ana.png" width="800px">
+<img src="fig\answer_ana.png" width="800px">
 </div>
 
 ## 💡Methodology
